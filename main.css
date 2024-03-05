@@ -34,7 +34,7 @@
     max-width: 400px; 
     }
   /* Animation for top circle */
-  #top-circle{
+  #Layer_1{
     animation: color-shift-top 7s infinite;
 }
 
@@ -48,7 +48,7 @@
                 fill:rgb(0, 0, 0);
             }
         }
-        #top-circle{
+        #Layer_1{
             fill:yellow;
 }
 
